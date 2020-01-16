@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.csprojAssemblyReference.cache
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.AssemblyInfo.cs
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\bin\Debug\netcoreapp2.1\TpAppliPanier.deps.json
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\bin\Debug\netcoreapp2.1\TpAppliPanier.runtimeconfig.json
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\bin\Debug\netcoreapp2.1\TpAppliPanier.runtimeconfig.dev.json
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\bin\Debug\netcoreapp2.1\TpAppliPanier.dll
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\bin\Debug\netcoreapp2.1\TpAppliPanier.pdb
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.dll
+C:\Users\david\Desktop\TpAppliPanier\TpAppliPanier\obj\Debug\netcoreapp2.1\TpAppliPanier.pdb
